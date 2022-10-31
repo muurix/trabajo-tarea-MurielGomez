@@ -20,7 +20,7 @@ a.navbar-brand{
 }
 #botones{
     position: absolute;
-    left: 70%;
+    left: 60%;
     bottom: 100%;
     
 }
@@ -30,9 +30,14 @@ a.navbar-brand{
     bottom: 250%;
     text-align: end;
 }
-#img2{
+
+
+#img2,#ba3,#ba2{
+
 filter: brightness(60%);
 }
+
+
 #Orador
 {
  color: whitesmoke;
@@ -45,10 +50,10 @@ filter: brightness(60%);
 }
 .card-group{
     width: 70%;
-    margin-left: 15%;
+ 
     display: flex;
-    justify-content: center;
-    align-content: space-between;
+    
+    position: space-between;
     
 }
 
