@@ -70,15 +70,13 @@ filter: brightness(60%);
     color: whitesmoke;
 }
 img#honolulu{
-    width: 650px;
+    width: 100%;
     
     
 }
 #Txt-bs{
-    position: absolute;
-    width: 650px;
-    height: 412px;
-    left: 650px;
+    
+   
     padding-top: 20px;
     justify-content: end;
     background-color: rgba(0, 0, 0, 0.74);
