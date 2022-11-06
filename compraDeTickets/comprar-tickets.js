@@ -1,13 +1,14 @@
 
 
 
-gbtnResumen=document.getElementById("btnResumen");
+btnResumen=document.getElementById("btnResumen");
 
 btnBorrar=document.getElementById("btnBorrar");
 
+
 var valorTicket = 200;
 
-
+valorT.innerHTML= valorTicket;
 
 var estudiante=80;
 var trainee=50;
